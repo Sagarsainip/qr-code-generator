@@ -1,0 +1,15 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Virtual environments
+venv/
+ENV/
+
+# Output images
+outputs/*.png
